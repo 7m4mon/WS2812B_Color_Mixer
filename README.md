@@ -1,6 +1,8 @@
 # WS2812B_Color_Mixer
 Color Mixer w/ WS2812B LEDs Matrix.
 
+<img src="https://github.com/7m4mon/WS2812B_Color_Mixer/blob/master/ws2812b_color_mixer.jpg" alt="" title="">   
+
 撮影ボックスで小物の撮影をする際、写真が青みがかったり、赤くなったりするときがありますよね。  
 照明を任意の色に出来れば解決するんじゃね？ということで、WS2812B LED Matrixを制御する  
 任意色の照明コントローラを作ってみました。  
