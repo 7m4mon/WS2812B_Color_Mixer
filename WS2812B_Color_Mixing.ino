@@ -10,7 +10,7 @@ With WAVGAT328
 
 #include <Adafruit_NeoPixel.h>
 
-const int NUMPIXELS = 256; //number of LEDs in 1m
+const int NUMPIXELS = 256; //number of LEDs in matrix (8x32 or 16x16)
 const int LEDsPin = 9;    // LEDs connected to digital pin 9
 
 const int redPotPin = A0;      // pin to control red
